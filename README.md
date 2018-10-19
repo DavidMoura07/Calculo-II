@@ -24,4 +24,5 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 - Considere estes dois somatórios: ΣAn e ΣBn sendo n=1 até ∞ e An < Bn, neste caso se An **(a menor) diverge** Bn **(a maior) também diverge**, se Bn **(a maior) converge**, An **(a menor) também converge**.
 - Agora se a **menor convergir NADA podemos dizer da maior** e **se a maior divergir, NADA podemos dizer da menor**, nesses casos o melhor e aplicar o TESTE DE COMPARAÇÃO DE LIMITE.
 - TESTE DE COMPARAÇÃO DE LIMITE: Aplique Lim An/Bn ou Lim Bn/An se o resultado for um número finito L > 0 então ou ambas convergem ou ambas divergem, daí é só analizar uma delas, a que você escolheu para comparar, e verificar se converge ou diverge, por tanto, escolha algo que vc saiba dizer se converge ou diverge facilmente. 
-OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de An/Bn para Bn/An o limite irá para ∞
+
+_OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de An/Bn para Bn/An o limite irá para ∞_

@@ -3,7 +3,7 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 
 
 ## Sessão 11.2
-- Série Geométrica: (a+ar+ar^2+...+ar^n)   Converge se |r| < 1, sua soma é **a/(1-r)**
+- Série Geométrica: (a+ar+ar^2+...+ar^n)   Converge se |r| < 1 (-1 < r < 1), sua soma é **a/(1-r)**
 - Soma telescópica: ex.: SOMATÓRIO DE I VARIANDO DE 1 A n: 1/(i(i+1)) (fração cujo denominador é uma equação)
   - Escreva a equação na forma (1-x')(1-x")
   - Aplique frações parciais

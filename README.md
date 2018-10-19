@@ -26,3 +26,17 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 - TESTE DE COMPARAÇÃO DE LIMITE: Aplique Lim An/Bn ou Lim Bn/An se o resultado for um número finito L > 0 então ou ambas convergem ou ambas divergem, daí é só analizar uma delas, a que você escolheu para comparar, e verificar se converge ou diverge, por tanto, escolha algo que vc saiba dizer se converge ou diverge facilmente. 
 
 _OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de An/Bn para Bn/An o limite irá para ∞_
+
+## Sessão 11.5 SERIES ALTERNADAS
+
+- Se uma série tem a forma an = (-1)^(n-1)bn ou (-1)^n bn então é uma série alternada
+- bn = |an|
+- Para saber se este tipo de série converge ou diverge basta verificar dois pontos: 
+  - b(n+1) <= bn
+  - lim bn = 0
+- Caso este dois pontos sejam atendidos a série converge.
+-Ex: (-1)^(n-1)/n
+  - Se fosse somente 1/n teríamos uma série harmônica, mas como ao invés de 1 temos (-1)^(n-1) isto a torna uma série hamronica alternada, cujo bn = |a| = 1/n
+  - Deste modo b(n+1) = 1/(n+1) <= bn, atendendo ao primeiro requisito.
+  - E lim bn = lim 1/n, quando n-> ∞ = 0, atendendo ao segundo requisito.
+  -Por tanto a série converge.

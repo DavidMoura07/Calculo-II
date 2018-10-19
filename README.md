@@ -11,6 +11,5 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
   - Passe o limite para encontrar a soma no infinito ou substitua n pelo termo desejado e calcule a equação
 - P-Série (1/n^p), converge se p>1, diverge se p<=1;
 - Série Harmônica: 1/n, diverge (P-Série, p=1)
-- Se o limite da SEQUENCIA (an) existe então an converge e é igual a L, sendo **L = lim an**
-- Porém a SÉRIE **só converge se L = 0**, se **L != 0 nada posso afirmar**, isto é, se L != 0 a série pode ou não convergir
+- Teste da divergêmcia: Se lim An != 0 então a série diverge, se lim An == 0 **NADA POSSO AFIRMAR**
 - Se SOMATÓRIO a*n* e SOMATÓRIO b*n* convergem, então SOMATORIO Ca*n* (onde C é uma constante) converge, bem como, SOMATÓRIO (a*n* + b*n*) e SOMATÓRIO (a*n* - b*n*)  (DICA: quebre o somatório em cada termo) 

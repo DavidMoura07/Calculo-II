@@ -35,9 +35,8 @@ _OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de 
   - b(n+1) <= bn
   - lim bn = 0
   - Caso este dois pontos não sejam atendidos a série diverge
-  
-  -Ex: (-1)^(n-1)/n
+  - Ex: (-1)^(n-1)/n
     - Se fosse somente 1/n teríamos uma série harmônica, mas como ao invés de 1 temos (-1)^(n-1) isto a torna uma série hamronica alternada, cujo bn = |a| = 1/n
     - Deste modo b(n+1) = 1/(n+1) <= bn, atendendo ao primeiro requisito.
     - E lim bn = lim 1/n, quando n-> ∞ = 0, atendendo ao segundo requisito.
-    -Por tanto a série converge.
+    - Por tanto a série converge.

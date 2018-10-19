@@ -3,7 +3,8 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 
 
 ## Sessão 11.2 SÉRIES
-- Série Geométrica: (a+ar+ar^2+...+ar^n)   Converge se |r| < 1 (-1 < r < 1), sua soma é **a/(1-r)**
+- Série Geométrica: tem a forma Σar^(n-1) ou Σar^n Ex.: (a+ar+ar^2+...+ar^n)
+  - Converge se |r| < 1 (-1 < r < 1), sua soma é **a/(1-r)**
 - Soma telescópica: ex.: Σ i=1 Até n: 1/(i(i+1)) (fração cujo denominador é uma equação)
   - Escreva a equação na forma (1-x')(1-x")
   - Aplique frações parciais

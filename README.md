@@ -13,3 +13,8 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 - Série Harmônica: 1/n, diverge (P-Série, p=1)
 - Teste da divergêmcia: Se lim **An != 0** então a série **diverge**, se lim **An == 0** **NADA POSSO AFIRMAR**
 - Se SOMATÓRIO a*n* e SOMATÓRIO b*n* convergem, então SOMATORIO Ca*n* (onde C é uma constante) converge, bem como, SOMATÓRIO (a*n* + b*n*) e SOMATÓRIO (a*n* - b*n*)  (DICA: quebre o somatório em cada termo) 
+
+## Sessão 11.3
+
+- Teste da integral: Funciona para toda e qualquer série, pórem costuma ser o mais difícil de se resolver, por tanto deixe-o como ultima opção. 
+- Consiste em integrar o termo An, se a integral converge o somatório converge, se a integral diverge o somatório diverge

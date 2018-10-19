@@ -12,7 +12,7 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
 - P-Série (1/n^p), converge se p>1, diverge se p<=1;
 - Série Harmônica: 1/n, diverge (P-Série, p=1)
 - Teste da divergêmcia: Se lim **An != 0** então a série **diverge**, se lim **An == 0** **NADA POSSO AFIRMAR**
-- Se SOMATÓRIO a*n* e SOMATÓRIO b*n* convergem, então SOMATORIO Ca*n* (onde C é uma constante) converge, bem como, SOMATÓRIO (a*n* + b*n*) e SOMATÓRIO (a*n* - b*n*)  (DICA: quebre o somatório em cada termo) 
+- Se Σa*n* e Σb*n* convergem, então ΣCa*n* (onde C é uma constante) converge, bem como, Σ(a*n* + b*n*) e Σ(a*n* - b*n*)  (DICA: quebre o somatório em cada termo) 
 
 ## Sessão 11.3 TESTE DA INTEGRAL E ESTIMATIVAS DE SOMAS
 

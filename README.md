@@ -9,7 +9,7 @@ Lembretes de Cálculo II, mais especificamente Séries e Sequencias
   - Aplique frações parciais
   - Aplique o somatório para um Sn e simplifique (aparecerão termos que se cancelam infinitamente, por isso limite a n termos)
   - Passe o limite para encontrar a soma no infinito ou substitua n pelo termo desejado e calcule a equação
-- P-Série (1/n^c), converge se c<1, diverge se c>=1;
+- P-Série (1/n^p), converge se p>1, diverge se p<=1;
 - Série Harmônica: 1/n, diverge (P-Série, p=1)
 - Se o limite da SEQUENCIA (an) existe então an converge e é igual a L, sendo **L = lim an**
 - Porém a SÉRIE **só converge se L = 0**, se **L != 0 nada posso afirmar**, isto é, se L != 0 a série pode ou não convergir

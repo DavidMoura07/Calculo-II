@@ -44,6 +44,37 @@ _OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de 
     
 ## >>>>>>>>>>>>>>>> P3 <<<<<<<<<<<<<<<<<
 
-10.2
+### 10.2 Cálculos com curvas parametrizadas
 
-- derivada primeira de uma curva parametrizada: $\frac{dy}{dx} $
+- derivada primeira de uma curva parametrizada: dy/dx = (dy/dt)/(dx/dt)
+- derivada segunda de uma curva parametrizada: d²y/dx² = d/dt(dy/dx) = (d/dt((dy/dt)/(dx/dt)))/(dx/dt)
+
+- encontrar tangentes: iguale x ou y ao ponto correspondente e isole t
+- euqção da reta: (y-y0) = m(x-x0), onde:
+  - y0 = função no ponto y
+  - x0 = função no ponto x
+  - m = dy/dx
+- encontrar tangentes horizontais:
+  - dy/dx = 0, logo dy/dt = 0 e dx/dt != 0
+- encontrar tangentes verticais:
+  - dy/dx = ±∞, logo dy/dt != 0 e dx/dt = 0
+- onde a curva sobe (crescente)?
+  - nos valores para t que satisfazem a eq: dt/dx > 0
+- onde a curva desce (decrescente)?
+  - nos valores para t que satisfazem a eq: dt/dx < 0
+  Obs: quando dt/dx = 0 temos um candidato a maximo e minimo local
+- onde é concava para cima?
+  -  nos valores para t que satisfazem a eq: d²y/dx² > 0
+- onde é concava para baixo?
+  -  nos valores para t que satisfazem a eq: d²y/dx² < 0
+  Obs: quando d²y/dx² = 0, temos um ponto de inflexão
+  
+- Áreas
+  - Integral de a até b de y*(dx/dt) dt
+  
+- Comprimento de arco
+  - integral de a até b de raiz(1+ (dy/dx)²) dx == **raiz(1+ ((dy/dt)/(dx/dt))²) (dx/dt)**
+  - Teorema 5: integral de a até b de **raiz( (dx/dt)² + (dy/dt)² ) dt**
+  
+- Área da Superfície
+  - integral de a até b de 2*PI*y**raiz( (dx/dt)² + (dy/dt)² ) dt**

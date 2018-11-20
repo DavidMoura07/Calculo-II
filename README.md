@@ -41,3 +41,9 @@ _OBS: o limite deve ser maior do que zero pois se for igual, caso invertamos de 
     - Deste modo b(n+1) = 1/(n+1) <= bn, atendendo ao primeiro requisito.
     - E lim bn = lim 1/n, quando n-> ∞ = 0, atendendo ao segundo requisito.
     - Por tanto a série converge.
+    
+## >>>>>>>>>>>>>>>> P3 <<<<<<<<<<<<<<<<<
+
+10.2
+
+- derivada primeira de uma curva parametrizada: $\frac{dy}{dx} $
